@@ -1,0 +1,10 @@
+
+.content{
+    border: 5px solid black;
+    height: 80vh;
+    margin-left: 255px;
+}
+.content_shown{
+    text-align: center;
+    margin-top: 20%;
+}

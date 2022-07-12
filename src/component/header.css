@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    border: 5px solid black;
+    height: 100px;
+    margin-left: 255px;
+}
+
+.header_1{
+    margin-top: 20px;
+    width: auto;
+}
